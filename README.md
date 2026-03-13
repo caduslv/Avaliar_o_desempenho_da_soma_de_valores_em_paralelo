@@ -119,7 +119,7 @@ Preencha a tabela com os **tempos médios de execução** obtidos.
 ### Speedup
 
 ```
-Speedup(p)=T(1)/T(p)​
+Speedup(p) = T(1) / T(p)​
 ```
 
 Onde:
